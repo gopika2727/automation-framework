@@ -1,0 +1,7 @@
+[
+  "tests/test_login.py::test_add_to_cart",
+  "tests/test_login.py::test_empty_login",
+  "tests/test_login.py::test_invalid_login",
+  "tests/test_login.py::test_login",
+  "tests/test_login.py::test_valid_login"
+]
